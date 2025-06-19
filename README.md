@@ -1,5 +1,7 @@
-
-🎓 **Sou Estudante de Engenharia de Software** da **Universidade de Brasília (UnB)**  
+## Sobre Mim:
+- 🎓**Sou Estudante de Engenharia de Software** da **Universidade de Brasília (UnB)**
+- 📔 **Aprimorando meus conhecimentos gerais de Software**
+  
 
 ## 🔖 Linguagens na qual estou tentando focar: 
 
@@ -14,11 +16,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <div align="center">
-  <a href="https://github.com/[seu-usuario]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/JoaoPaulo-power/JoaoPaulo-power">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPaulo-power&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPaulo-power&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
 
 ---
+
+📌 *Foco em: Java | JavaScript | C | C++ | Open Source*
